@@ -23,7 +23,7 @@ Hi there 👋
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on 3D vision, especially 3D Detection & 3D reconstruction
+- 🔭 I’m currently working on 3D vision, especially 3D Detection & 3D Reconstruction
 - 📫 How to reach me: sibylgao1997@gmail.com
 - 📝 I write some articles and notes on [知乎: minushomo](https://www.zhihu.com/people/minushomo)
 - 👯 My Homepage: [https://sibylgao.github.io/](https://sibylgao.github.io/)
